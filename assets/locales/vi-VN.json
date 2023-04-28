@@ -1,0 +1,26 @@
+{
+  "appName": "Delivery Food",
+  "splash_": {
+    "title": "Delivious",
+    "subtitle": "Food Delivery"
+  },
+  "languageOption": [
+    "English (US)",
+    "Tiếng Việt"
+  ], 
+  "onboarding_": {
+    "title": [
+      "Choose your favorite menu",
+      "Pay with your card",
+      "Sit and wait your food"
+    ],
+    "description": [
+      "Various menu are available, including food, drinks, and various cakes",
+      "Easy payment with various cards you have",
+      "Just sit and relax, food will come and ready for you to eat"
+    ],
+    "skip": "Skip",
+    "next": "Next",
+    "done": "Done"
+  }
+}

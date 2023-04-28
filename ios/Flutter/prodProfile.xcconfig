@@ -1,0 +1,6 @@
+#include "Generated.xcconfig"
+
+FLUTTER_TARGET=lib/main_prod.dart
+ASSET_PREFIX=prod
+BUNDLE_NAME=Delivery Food
+BUNDLE_DISPLAY_NAME=Delivery Food
